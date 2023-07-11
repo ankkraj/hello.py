@@ -1,3 +1,4 @@
+# Databricks notebook source
 import re
 import json
 
@@ -867,3 +868,4 @@ class Config:
     @property
     def mf_all_s_module_yld_at_l3_bypart_with_product_qtys(self) -> str:
         return "mf_all_s_module_yld_at_l3_bypart_with_product_qtys"
+
